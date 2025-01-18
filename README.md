@@ -1,8 +1,8 @@
 # HeroHub-Movie-App
 
-** Design and developed a user-friendly app that allows users to search for movies by title, release year, or genre, providing detailed information such as cast, synopsis, and ratings.
-** Implemented responsive UI/UX with real-time data fetching using React, ensuring smooth navigation and optimal performance across devices.
-** Implemented a search engine enabling users to discover movies by title, release year, or genre, delivering accurate and fast results.
+* Design and developed a user-friendly app that allows users to search for movies by title, release year, or genre, providing detailed information such as cast, synopsis, and ratings.
+* Implemented responsive UI/UX with real-time data fetching using React, ensuring smooth navigation and optimal performance across devices.
+* Implemented a search engine enabling users to discover movies by title, release year, or genre, delivering accurate and fast results.
 
 # Getting Started with React App
 
