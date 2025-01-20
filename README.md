@@ -1,7 +1,7 @@
 # HeroHub-Movie-App
 HeroHub is a dynamic movie discovery platform where users can explore iconic films like Avengers, Batman, Superman, Spider-Man, and Iron Man. The app offers advanced search features, allowing users to find movies by title, release year, or genre, with real-time data fetched from the OMDB API.
 
-#Features
+# Features
 
 * Designed and developed a dynamic user interface using React.js for seamless movie discovery and browsing.
 * Integrated the OMDB API to fetch real-time movie data, including titles, release years, genres, and detailed descriptions.
